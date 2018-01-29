@@ -1,0 +1,35 @@
+.icon-links {
+    display: inline-block;
+	text-align: center;
+    margin: auto;
+    color: black;
+    border: 3px;
+    padding: 10px;
+}
+
+.linkedin {
+	color: #007bb6;
+	border: 3px;
+    padding: 10px;
+}
+
+.email {
+	color: black;
+	border: 3px;
+    padding: 10px;
+    text-align: center;	
+
+}
+.text {
+	text-align: center;
+}
+
+.images-help {
+  width: 30%; /* this seems good */
+  max-width: 450px;
+  height: auto;    
+  display: inline-block;    
+  border-radius: 20%;
+  text-align: center;	
+
+}​

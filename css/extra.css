@@ -1,4 +1,18 @@
-body {background-color: #deeff5;} 
+body {
+	background-color: #deeff5;
+} 
+
+h1 {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.about-me {
+	width: 80%;
+	max-width: 650px;
+	text-align: center;
+	display: inline-block;    
+}
 
 .icon-links {
     display: inline-block;
@@ -20,8 +34,8 @@ body {background-color: #deeff5;}
 	border: 3px;
     padding: 10px;
     text-align: center;	
-
 }
+
 .text {
 	text-align: center;
 }
@@ -33,7 +47,6 @@ body {background-color: #deeff5;}
   display: inline-block;    
   border-radius: 20%;
   text-align: center;	
-
 }​
 
 .bckgrnd {

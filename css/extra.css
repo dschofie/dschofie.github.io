@@ -26,14 +26,21 @@ h1 {
 .linkedin {
 	color: #007bb6;
 	border: 3px;
-    padding: 10px;
+  padding: 10px;
 }
 
 .email {
 	color: black;
 	border: 3px;
-    padding: 10px;
-    text-align: center;	
+  padding: 10px;
+  text-align: center;	
+}
+
+.medium {
+  color: #0000A0;
+  border: 3px;
+  padding: 10px;
+  text-align: center; 
 }
 
 .text {
